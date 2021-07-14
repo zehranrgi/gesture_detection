@@ -16,10 +16,10 @@ Some output:
 
 
 
+![vletter](https://user-images.githubusercontent.com/70450368/125589426-70c1d2ba-3b70-47b8-8846-f9dfe8594acf.png)
 ![call](https://user-images.githubusercontent.com/70450368/125589407-8f2a94bc-5a69-4b3a-86d5-c02bd0e47f6e.png)
 ![thumsdown](https://user-images.githubusercontent.com/70450368/125589417-8bb738a1-294e-4687-9ef2-61336b402932.png)
 ![thumsup](https://user-images.githubusercontent.com/70450368/125589422-a1776717-a51a-4fd1-8a12-178d0d1ee7d0.png)
-![vletter](https://user-images.githubusercontent.com/70450368/125589426-70c1d2ba-3b70-47b8-8846-f9dfe8594acf.png)
 ![tensorboard_train](https://user-images.githubusercontent.com/70450368/125589413-44a7586a-336d-4af2-84f5-1378bd9b7376.png)
 
 
