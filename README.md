@@ -3,7 +3,7 @@
 
 
 
-I worked with 4 classes in this project. These are: call, letter, thumbs up, thumsdown. I edited the codes on Ubuntu 21.04 version. I also put the pipeline.config which was very challenging because even with one missing bracket, it could be broken. I encountered a lot of problems with the code, if you use the codes and if there is a problem, you can leave a comment.
+I worked with 4 classes in this project. These are: call, vletter, thumbs up, thumsdown. I edited the codes on Ubuntu 21.04 version. I also put the pipeline.config which was very challenging because even with one missing bracket, it could be broken. I encountered a lot of problems with the code, if you use the codes and if there is a problem, you can leave a comment.
 
 
 Some output: 
