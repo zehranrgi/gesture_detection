@@ -33,17 +33,12 @@ Some output:
 
 
 
-I compiled the codes with @nicknochnack. 
 
-His video was about 5 hours, I completed the following:
+completed the following:
 
 A. Gesture Detection - this is the first project where you'll be able to build a model that detects different gestures
 
-B. Microscope Based Defect Detection - here we'll leverage a USB microscope to detect defects in LEDs and PCBs using TFOD and Python
-
-C. Web Direction Detection - in this model you'll learn how to detect hand directions for integration in a React Js Web App with Tensorflow Js
-
-D. Face Sentiment Detection - here you'll learn how to estimate facial sentiment using Tensorflow Object Detection on a Raspberry Pi with TFLite 
+B. Face Sentiment Detection - here you'll learn how to estimate facial sentiment using Tensorflow Object Detection on a Raspberry Pi with TFLite 
 
 
 
