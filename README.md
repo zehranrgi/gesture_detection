@@ -7,9 +7,8 @@ I worked with 4 classes in this project. These are: call, vletter, thumbs up, th
 
 I edited the codes on Ubuntu 21.04 version,Jupyter Notebook, Visual Code, NVDIA 460, CUDA 11.2 , CudNN 8. 
 
-I also put the pipeline.config which was very challenging because even with one missing bracket, it could be broken. 
+I also put the pipeline.config.
 
-I encountered a lot of problems with the code(because his code was okay with Win OS), if you use the codes and if there is a problem, you can leave a comment.
 
 
 Some output: 
